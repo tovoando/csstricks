@@ -1,0 +1,14 @@
+invert color
+
+fluid
+
+image on brand with 5px margin-top
+
+.navchange .navbar-brand img{margin:10px 0;max-height:40px;width:auto}
+.navchange .navbar-brand img{margin:10px 0;max-height:22px;width:auto}
+
+.navbar .navbar-toggle:hover{border:none;width:40px;height:40px;margin:10px 15px 0 0;background:0 0!important;text-align:center;padding:0}
+.navbar .navbar-toggle:hover{border:none;width:40px;height:65px;margin:6px 9.3px 4px 0;background:0 0!important;text-align:center;padding:0}
+
+.navbar.navbar-inverse .navbar-nav>li>a:hover{color:#fff;background:rgba(0,0,0,.2)}
+.navbar.navbar-inverse .navbar-nav>li>a:hover{color:#ca5241;}

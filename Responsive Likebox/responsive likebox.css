@@ -1,0 +1,12 @@
+.embed-facebook { 
+	position: relative; 
+	height: 0;
+	overflow: hidden;
+	max-width: 100%;
+	height: auto; 
+	margin-top: 20px; 
+} 
+
+.embed-facebook span, .embed-facebook span iframe[style] {
+	width: 100% !important;
+}
